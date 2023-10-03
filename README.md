@@ -1,6 +1,6 @@
-Challenge Tres de Seis | Formación Front-End | Portafolio Personal
+Challenge | Formación Front-End | Portafolio Personal
 
-# Portaforlio_Web-Oracle-ONE-Challenge
+# Portaforlio_Web-Oracle-ONE-Challenge (https://yimyupn.github.io/Portafolio_Web/)
 ![Challenge Alura Latam + Oracle]
 
 **Página Web:** 
