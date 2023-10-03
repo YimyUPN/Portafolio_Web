@@ -5,7 +5,7 @@ Challenge | Formación Front-End | Portafolio Personal
 
 **Página Web:** 
 
-https://yimyupn.github.io/Portafolio_Web/ https://yimyupn.github.io/Portafolio_Web/
+https://yimyupn.github.io/Portafolio_Web
 
 **Vista previa:**
 
